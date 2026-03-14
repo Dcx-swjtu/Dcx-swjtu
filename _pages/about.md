@@ -233,7 +233,7 @@ Publications
 
 <div class="publication-card">
   <div style="display: flex; align-items: center;">
-    <img src="images/www.png" alt="wog" width="200" height="100" style="margin-right: 20px;">
+    <img src="images/www.png" alt="www" width="200" height="100" style="margin-right: 20px;">
     <div>
         <strong>A2GBD:Attack-Agnostic Graph Backdoor</strong><br>
         <i style="font-size: 13px;">
@@ -251,7 +251,7 @@ Publications
 
 <div class="publication-card">
   <div style="display: flex; align-items: center;">
-    <img src="images/mm.png" alt="wog" width="200" height="100" style="margin-right: 20px;">
+    <img src="images/mm.png" alt="mm" width="200" height="100" style="margin-right: 20px;">
     <div>
         <strong>DwT:Draw with Thought</strong><br>
         We propose Unleashing Multimodal Reasoning for Scientific Diagram Generation(DwT), a training-free framework that guides MLLMs to reconstruct diagrams into editable mxGraph XML code through cognitively inspired Chain-of-Thought reasoning
