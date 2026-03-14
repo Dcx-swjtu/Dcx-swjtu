@@ -12,9 +12,9 @@ title                    : "Chenxu / Personal Homepage"
 title_separator          : "-"
 name                     : Violet
 description              : &description "personal description"
-url                      : https://dcx-swjtu.github.io/
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Dcx-swjtu/Dcx-swjtu"
+url: "https://dcx-swjtu.github.io"
+baseurl: "/Dcx-swjtu"
+repository: "Dcx-swjtu/Dcx-swjtu"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
