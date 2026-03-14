@@ -188,43 +188,45 @@ News
 Experience
 --------------
 
+  <div class="experience-container">
   <div class="experience-card">
-      <img src="images/Cityu.png" alt="Cityu logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>City University of Hong Kong</strong><br>
-          June 2025 - Now<br>
-          Research Intern, advised by <a href="https://songhuahu-umd.github.io/"><em>Prof. Songhua Hu</em></a>
-      </div>
+    <img src="images/Cityu.png" alt="CityU logo" class="experience-logo">
+    <div class="experience-info">
+      <strong>City University of Hong Kong</strong><br>
+      Jun 2025 – Present<br>
+      Research Intern, advised by <a href="https://songhuahu-umd.github.io/"><em>Prof. Songhua Hu</em></a>
+    </div>
   </div>
 
+  <div class="experience-card">
+    <img src="images/ailab.jpg" alt="Shanghai AI Lab logo" class="experience-logo">
+    <div class="experience-info">
+      <strong>Shanghai AI Lab</strong><br>
+      Dec 2025 – Present<br>
+      Research Intern at <a href="https://ai45.shlab.org.cn/"><em>AI45 Lab</em></a>
+    </div>
+  </div>
 
   <div class="experience-card">
-      <img src="images/ailab.jpg" alt="ailab logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Shanghai ailab</strong><br>
-          Dec 2025 - Now<br>
-          Research Intern at <a href="https://ai45.shlab.org.cn/"><em>ai45</em></a> Lab
-      </div>
+    <img src="images/thu.png" alt="Tsinghua University logo" class="experience-logo">
+    <div class="experience-info">
+      <strong>ETS Lab, Tsinghua University</strong><br>
+      Jan 2025 – Dec 2025<br>
+      Research Intern, working on LLMs for Transportation and Mobility
+    </div>
   </div>
-  
-<div class="experience-container">
+
   <div class="experience-card">
-      <img src="images/thu.png" alt="thu logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>THU ETS Lab</strong><br>
-          Jan 2025 - Dec 2025<br>
-          Research Intern at <a href="https://www.ets.svm.tsinghua.edu.cn/"><em>ETS Lab</em></a>, working on LLMs for Transportation and Mobility
-      </div>
-  </div>
-  
-  <div class="experience-card">
-      <img src="images/SWJTU.jpg" alt="SWJTU logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Southwest Jiaotong University</strong><br>
-          Jan 2024 - July 2027<br>
-          <b>Academic Innovation Scholarship</b><br>
-          B.E. at <a href="https://ctt.swjtu.edu.cn/xygknew/jtgcx.htm"><em>School of Transportation and Logistics, Southwest Jiaotong University</em></a>, advised by <a            href="https://faculty.swjtu.edu.cn/litianrui/zh_CN/index.htm"><em>Prof. Tianrui Li</em></a>
-      </div>
+    <img src="images/SWJTU.jpg" alt="SWJTU logo" class="experience-logo">
+    <div class="experience-info">
+      <strong>Southwest Jiaotong University</strong><br>
+      Jan 2024 – Jul 2027<br>
+      <b>Academic Innovation Scholarship</b><br>
+      B.E. in Transportation Engineering at
+      <a href="https://ctt.swjtu.edu.cn/xygknew/jtgcx.htm"><em>School of Transportation and Logistics</em></a>,
+      advised by
+      <a href="https://faculty.swjtu.edu.cn/litianrui/zh_CN/index.htm"><em>Prof. Tianrui Li</em></a>
+    </div>
   </div>
 </div>
 
