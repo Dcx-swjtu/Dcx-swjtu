@@ -265,6 +265,7 @@ Projects
 
 <div class="project-card">
   <div style="display: flex; align-items: center;">
+    <img src="images/MetaPalace.png" alt="MetaPalace" width="200" height="100" style="margin-right: 20px;">
     <div>
       <strong>RL Lab</strong><br>
       RL Lab is dedicated to developing efficient and adaptable deep reinforcement learning algorithms.<br>
@@ -277,11 +278,9 @@ Projects
   <div style="display: flex; align-items: center;">
     <img src="images/MetaPalace.png" alt="MetaPalace" width="200" height="100" style="margin-right: 20px;">
     <div>
-      <strong>MetaPalace: Bringing the Palace Museum into a Metaverse Experience</strong><br>
-      MetaPalace offers 3D artifact views via single-view reconstruction and an interactive LLM-powered tour guide built with RAG, creating a richer digital museum experience.<br>
-      <a href="https://metapalace.xj63.fun/"><em>[website]</em></a>
-      <a href="https://github.com/xj63/MetaPalaceSite"><em>[front-end code]</em></a>
-      <a href="https://github.com/Selen-Suyue/MetaPalace"><em>[back-end code]</em></a>
+      <strong>MLLM-Reasoning-Enhancement-Guide</strong><br>
+      This repository offers a systematic guide to MLLM reasoning enhancement, including method overviews, key papers, tools, datasets, and tutorial notes<br>
+      <a href="https://github.com/Jeffjeno/MLLM-Reasoning-Enhancement-Guide"><em>[website]</em></a>
     </div>
   </div>
 </div>
