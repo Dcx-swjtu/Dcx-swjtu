@@ -176,7 +176,7 @@ I am an undergraduate (2023–2027) at Southwest Jiaotong University. My researc
 
 I work at [Cityu](https://www.cityu.edu.hk/ace/) with [Prof. Songhua Hu](https://songhuahu-umd.github.io/).
 Previously I worked at [ETS lab@THU](https://www.ets.svm.tsinghua.edu.cn/) with [Prof.Yang Liu](https://www.svm.tsinghua.edu.cn/essay/80/2107.html) 
-Currently I conduct the Agent memory research at [ailab](https://www.shlab.org.cn/).
+Currently I conduct the Agent memory research at [ailab](https://ai45.shlab.org.cn/).
 
 News
 ---------------
