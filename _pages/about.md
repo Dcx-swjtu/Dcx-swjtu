@@ -189,7 +189,7 @@ Experience
 --------------
 <div class="experience-container">
   <div class="experience-card">
-      <img src="images/bytedance.png" alt="Seed logo" class="experience-logo">
+      <img src="images/thu.png" alt="Seed logo" class="experience-logo">
       <div class="experience-info">
           <strong>ByteDance Seed</strong><br>
           Oct 2025 - Now<br>
