@@ -2,7 +2,7 @@
 
 main:
   - title: "Publications"
-    url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=TUVYCcIAAAAJ"
+    url: "#"
 
   # - title: "CV-En"
   #   url: /files/selen_resume.pdf
@@ -11,10 +11,10 @@ main:
   #   url:   /files/chinese_resume.pdf  
 
   - title: "Blogs"
-    url: "https://selen-suyue.github.io/biosite/"  
+    url: "#"  
     
   # - title: "Slide"
   #   url: /files/selenslide.pdf
 
   - title: "Demos"
-    url: https://www.youtube.com/@SelenSu-j6h
+    url: #
