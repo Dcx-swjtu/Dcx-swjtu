@@ -265,7 +265,7 @@ Projects
 
 <div class="project-card">
   <div style="display: flex; align-items: center;">
-    <img src="images/MetaPalace.png" alt="MetaPalace" width="200" height="100" style="margin-right: 20px;">
+    <img src="images/rl_lab_logo.png" alt="MetaPalace" width="200" height="100" style="margin-right: 20px;">
     <div>
       <strong>RL Lab</strong><br>
       RL Lab is dedicated to developing efficient and adaptable deep reinforcement learning algorithms.<br>
@@ -276,7 +276,7 @@ Projects
 
 <div class="project-card">
   <div style="display: flex; align-items: center;">
-    <img src="images/MetaPalace.png" alt="MetaPalace" width="200" height="100" style="margin-right: 20px;">
+    <img src="images/mllm_reasoning_guide_logo.png" alt="MetaPalace" width="200" height="100" style="margin-right: 20px;">
     <div>
       <strong>MLLM-Reasoning-Enhancement-Guide</strong><br>
       This repository offers a systematic guide to MLLM reasoning enhancement, including method overviews, key papers, tools, datasets, and tutorial notes<br>
