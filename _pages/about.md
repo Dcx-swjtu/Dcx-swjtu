@@ -233,63 +233,59 @@ Publications
 
 <div class="publication-card">
   <div style="display: flex; align-items: center;">
-    <img src="images/www.png" alt="www" width="200" height="100" style="margin-right: 20px;">
+    <img src="images/www.png" alt="WWW 2026" width="200" height="100" style="margin-right: 20px;">
     <div>
-        <strong>A2GBD:Attack-Agnostic Graph Backdoor</strong><br>
-        <i style="font-size: 13px;">
-            <a href="https://dcx-swjtu.github.io/" target="_blank"><strong>Chenxu Du</strong></a>, 
-            <a href="" target="_blank">Yang liu</a>&dagger;
-        </i><br>
-        We propose Attack-Agnostic Graph Backdoor (A2GBD), A Unified Backdoor Defense Framework for RL
-        <br>
-        <b><i style="color:#83a1c7;">WWW 2026 &nbsp;</i></b>
-        <a href=""><em>[arXiv]</em></a>
-        <a href="https://github.com/Dcx-swjtu/A2GBD"><em>[code]</em></a>
+      <strong>A2GBD: Attack-Agnostic Graph Backdoor</strong><br>
+      <i style="font-size: 13px;">
+        <a href="https://dcx-swjtu.github.io/" target="_blank"><strong>Chenxu Du</strong></a>,
+        <a href="" target="_blank">Yang Liu</a>&dagger;
+      </i><br>
+      We propose Attack-Agnostic Graph Backdoor (A2GBD), a unified backdoor defense framework for reinforcement learning.<br>
+      <b><i style="color:#83a1c7;">WWW 2026 &nbsp;</i></b>
+      <a href=""><em>[arXiv]</em></a>
+      <a href="https://github.com/Dcx-swjtu/A2GBD"><em>[code]</em></a>
     </div>
   </div>
 </div>
 
 <div class="publication-card">
   <div style="display: flex; align-items: center;">
-    <img src="images/mm.png" alt="mm" width="200" height="100" style="margin-right: 20px;">
+    <img src="images/mm.png" alt="ACM MM 2025" width="200" height="100" style="margin-right: 20px;">
     <div>
-        <strong>DwT:Draw with Thought</strong><br>
-        We propose Unleashing Multimodal Reasoning for Scientific Diagram Generation(DwT), a training-free framework that guides MLLMs to reconstruct diagrams 
-        <br>
-        <b><i style="color:#83a1c7;">ACM MM 2025 &nbsp;</i></b>
-        <a href="https://arxiv.org/html/2504.09479v2"><em>[arXiv]</em></a>
+      <strong>DwT: Draw with Thought</strong><br>
+      We propose DwT, a training-free framework that unleashes multimodal reasoning for scientific diagram generation by guiding MLLMs to reconstruct diagrams.<br>
+      <b><i style="color:#83a1c7;">ACM MM 2025 &nbsp;</i></b>
+      <a href="https://arxiv.org/html/2504.09479v2"><em>[arXiv]</em></a>
     </div>
   </div>
-</div
-
-
+</div>
 
 Projects
 --------
+
 <div class="project-card">
- <div style="display: flex; align-items: center;">
-    <img src="images/maniunicon.png" alt="Maniunicon" width="200" height="100" style="margin-right: 20px;">
+  <div style="display: flex; align-items: center;">
+    <img src="images/maniunicon.png" alt="ManiUniCon" width="200" height="100" style="margin-right: 20px;">
     <div>
-        <strong>ManiUniCon: A Unified Control Interface for Robotic Manipulation</strong><br>
-ManiUniCon is a comprehensive, multi-process robotics control framework designed for robotic manipulation tasks. It provides a unified interface for controlling various robot arms, integrating sensors, and executing policies in real-time. <br>
+      <strong>ManiUniCon: A Unified Control Interface for Robotic Manipulation</strong><br>
+      ManiUniCon is a comprehensive multi-process robotics control framework for robotic manipulation tasks. It provides a unified interface for controlling various robot arms, integrating sensors, and executing policies in real time.<br>
       <a href="https://github.com/Universal-Control/ManiUniCon"><em>[code]</em></a>
     </div>
+  </div>
 </div>
-</div>
+
 <div class="project-card">
- <div style="display: flex; align-items: center;">
+  <div style="display: flex; align-items: center;">
     <img src="images/MetaPalace.png" alt="MetaPalace" width="200" height="100" style="margin-right: 20px;">
     <div>
-        <strong>MetaPalace: Let you in a meta world of The Palace Museum</strong><br>
-We've done what the Old Palace official website couldn't: offering 3D artifact views with single-view reconstruction and an interactive LLM-powered tour guider using RAG technology. <br>
-      <a href="https://metapalace.xj63.fun/"><em>[website]</em></a> 
+      <strong>MetaPalace: Bringing the Palace Museum into a Metaverse Experience</strong><br>
+      MetaPalace offers 3D artifact views via single-view reconstruction and an interactive LLM-powered tour guide built with RAG, creating a richer digital museum experience.<br>
+      <a href="https://metapalace.xj63.fun/"><em>[website]</em></a>
       <a href="https://github.com/xj63/MetaPalaceSite"><em>[front-end code]</em></a>
       <a href="https://github.com/Selen-Suyue/MetaPalace"><em>[back-end code]</em></a>
     </div>
+  </div>
 </div>
-</div>
-
-
 Awards
 --------
 - Academic Innovation Scholarship 2025
