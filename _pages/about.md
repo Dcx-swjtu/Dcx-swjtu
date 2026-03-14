@@ -203,7 +203,7 @@ Experience
       <div class="experience-info">
           <strong>Shanghai ailab</strong><br>
           Dec 2025 - Now<br>
-          Research Intern at <a href="https://ai45.shlab.org.cn/><em>ai45</em></a> Lab
+          Research Intern at <a href="https://ai45.shlab.org.cn/"><em>ai45</em></a> Lab
       </div>
   </div>
   
@@ -213,7 +213,7 @@ Experience
       <div class="experience-info">
           <strong>THU ETS Lab</strong><br>
           Jan 2025 - Dec 2025<br>
-          Research Intern at <a href="https://www.ets.svm.tsinghua.edu.cn/"><em>ET Lab</em></a>, working on LLMs for Transportation and Mobility
+          Research Intern at <a href="https://www.ets.svm.tsinghua.edu.cn/"><em>ETS Lab</em></a>, working on LLMs for Transportation and Mobility
       </div>
   </div>
   
