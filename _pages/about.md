@@ -254,7 +254,7 @@ Publications
     <img src="images/mm.png" alt="mm" width="200" height="100" style="margin-right: 20px;">
     <div>
         <strong>DwT:Draw with Thought</strong><br>
-        We propose Unleashing Multimodal Reasoning for Scientific Diagram Generation(DwT), a training-free framework that guides MLLMs to reconstruct diagrams into editable mxGraph XML code through cognitively inspired Chain-of-Thought reasoning
+        We propose Unleashing Multimodal Reasoning for Scientific Diagram Generation(DwT), a training-free framework that guides MLLMs to reconstruct diagrams 
         <br>
         <b><i style="color:#83a1c7;">ACM MM 2025 &nbsp;</i></b>
         <a href="https://arxiv.org/html/2504.09479v2"><em>[arXiv]</em></a>
