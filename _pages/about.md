@@ -180,11 +180,9 @@ Currently I conduct the Agent memory research at [ailab](https://www.shlab.org.c
 
 News
 ---------------
-- *[DSPv2](https://selen-suyue.github.io/DSPv2Net) and [MBA](https://selen-suyue.github.io/MBApage) are accepted in ICRA 2026 &#128293;*
-- *[Dense Policy](https://selen-suyue.github.io/DspNet) is accepted in ICCV 2025 &#128293;*
-- *[MBA](https://selen-suyue.github.io/MBApage) is accepted in IEEE RA-L 2025 &#128293;*
-- *Our work [Advdisplay]() was accepted at AAAI 2025 &#128293;*
-- *In charge of [Microsoft Club](https://github.com/MSC-XDU). Feel free to reach out if you'd like to join.*
+- *[A2GBD](https://github.com/Dcx-swjtu/A2GBD) is accepted in WWW 2026 &#128293;*
+- Our work achieved 7th place globally in the lightweight deployment track of Tencent 2025 OpenMind's Honor of Kings competition. &#128293;*
+- *In charge of [Cybersecurity Club](https://ctf.show/). Feel free to reach out if you'd like to join.*
 
 Experience
 --------------
