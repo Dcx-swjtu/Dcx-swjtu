@@ -187,50 +187,43 @@ News
 
 Experience
 --------------
+
+  <div class="experience-card">
+      <img src="images/Cityu.png" alt="HKU logo" class="experience-logo">
+      <div class="experience-info">
+          <strong>City University of Hong Kong</strong><br>
+          June 2025 - Now<br>
+          Research Intern, advised by <a href="https://songhuahu-umd.github.io/"><em>Prof. Songhua Hu</em></a>
+      </div>
+  </div>
+
+
+  <div class="experience-card">
+      <img src="images/ailab.png" alt="SJTU logo" class="experience-logo">
+      <div class="experience-info">
+          <strong>Shanghai ailab</strong><br>
+          Dec 2025 - Now<br>
+          Research Intern at <a href="https://ai45.shlab.org.cn/><em>ai45</em></a> Lab
+      </div>
+  </div>
+  
 <div class="experience-container">
   <div class="experience-card">
-      <img src="images/thu.png" alt="Seed logo" class="experience-logo">
+      <img src="images/thu.png" alt="thu logo" class="experience-logo">
       <div class="experience-info">
-          <strong>ByteDance Seed</strong><br>
-          Oct 2025 - Now<br>
-          MLE Intern at <a href="https://seed.bytedance.com/en/"><em>Seed-Robotics</em></a> 
+          <strong>THU ETS Lab</strong><br>
+          Jan 2025 - Dec 2025<br>
+          Research Intern at <a href="https://www.ets.svm.tsinghua.edu.cn/"><em>ET Lab</em></a>, working on LLMs for Transportation and Mobility
       </div>
   </div>
-
+  
   <div class="experience-card">
-      <img src="images/HKU.png" alt="HKU logo" class="experience-logo">
+      <img src="images/SWJTU.png" alt="JD logo" class="experience-logo">
       <div class="experience-info">
-          <strong>The University of Hong Kong</strong><br>
-          June 2025 - Now<br>
-          Research Intern at <a href="https://mmlab.hk/"><em>MMLab@HKU</em></a> 
-      </div>
-  </div>
-
-  <div class="experience-card">
-      <img src="images/astri.png" alt="astri logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Astribot Inc.</strong><br>
-          June 2025 - Sep 2025<br>
-          MLE Intern advised by <a href="https://scholar.google.com/citations?user=mt5mvZ8AAAAJ&hl=en"><em>Jianan Wang</em></a>
-      </div>
-  </div>
-
-  <div class="experience-card">
-      <img src="images/SJTU.png" alt="SJTU logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Shanghai Jiao Tong University</strong><br>
-          July 2024 - June 2025<br>
-          Research Intern at <a href="https://www.mvig.org/index.html"><em>MVIG</em></a> Lab
-      </div>
-  </div>
-
-  <div class="experience-card">
-      <img src="images/XDU.png" alt="Xi'dian logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Xidian University</strong><br>
-          Sep 2022 - July 2026<br>
-          Rank 4/174, <b>National Scholarship</b><br>
-          B.E at <a href="https://sai.xidian.edu.cn"><em>SAI</em></a> & RA at <a href="https://web.xidian.edu.cn/mggong/"><em>OMEGA</em></a> Lab
+          <strong>Southwest Jiaotong University</strong><br>
+          Jan 2024 - July 2027<br>
+          <b>Academic Innovation Scholarship</b><br>
+          B.E. at <a href="https://ctt.swjtu.edu.cn/xygknew/jtgcx.htm"><em>School of Transportation and Logistics, Southwest Jiaotong University</em></a>, advised by <a            href="https://faculty.swjtu.edu.cn/litianrui/zh_CN/index.htm"><em>Prof. Tianrui Li</em></a>
       </div>
   </div>
 </div>
