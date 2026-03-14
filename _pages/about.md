@@ -265,11 +265,10 @@ Projects
 
 <div class="project-card">
   <div style="display: flex; align-items: center;">
-    <img src="images/maniunicon.png" alt="ManiUniCon" width="200" height="100" style="margin-right: 20px;">
     <div>
-      <strong>ManiUniCon: A Unified Control Interface for Robotic Manipulation</strong><br>
-      ManiUniCon is a comprehensive multi-process robotics control framework for robotic manipulation tasks. It provides a unified interface for controlling various robot arms, integrating sensors, and executing policies in real time.<br>
-      <a href="https://github.com/Universal-Control/ManiUniCon"><em>[code]</em></a>
+      <strong>RL Lab</strong><br>
+      RL Lab is dedicated to developing efficient and adaptable deep reinforcement learning algorithms.<br>
+      <a href="https://github.com/sunwuzhou03/reinforcement-learning-lab"><em>[code]</em></a>
     </div>
   </div>
 </div>
