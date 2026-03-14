@@ -199,7 +199,7 @@ Experience
 
 
   <div class="experience-card">
-      <img src="images/ailab.png" alt="ailab logo" class="experience-logo">
+      <img src="images/ailab.jpg" alt="ailab logo" class="experience-logo">
       <div class="experience-info">
           <strong>Shanghai ailab</strong><br>
           Dec 2025 - Now<br>
@@ -218,7 +218,7 @@ Experience
   </div>
   
   <div class="experience-card">
-      <img src="images/SWJTU.png" alt="SWJTU logo" class="experience-logo">
+      <img src="images/SWJTU.jpg" alt="SWJTU logo" class="experience-logo">
       <div class="experience-info">
           <strong>Southwest Jiaotong University</strong><br>
           Jan 2024 - July 2027<br>
