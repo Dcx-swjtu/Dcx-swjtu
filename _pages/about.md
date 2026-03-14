@@ -182,6 +182,7 @@ News
 ---------------
 - *[A2GBD](https://github.com/Dcx-swjtu/A2GBD) is accepted in WWW 2026 &#128293;*
 - *Our work achieved 7th place globally in the lightweight deployment track of Tencent 2025 OpenMind's Honor of Kings competition. &#128293;*
+- *[DwT](https://arxiv.org/abs/2504.09479) is accepted in MM 2025
 - *In charge of [Cybersecurity Club](https://ctf.show/). Feel free to reach out if you'd like to join.*
 
 Experience
