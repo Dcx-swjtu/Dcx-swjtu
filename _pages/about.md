@@ -252,7 +252,7 @@ Publications
   <div style="display: flex; align-items: center;">
     <img src="images/mm.png" alt="ACM MM 2025" width="200" height="100" style="margin-right: 20px;">
     <div>
-      <strong>DwT: Draw with Thought</strong><br>
+      <strong>Draw with Thought: Unleashing Multimodal Reasoning for Scientific Diagram Generation</strong><br>
       We propose DwT, a training-free framework that unleashes multimodal reasoning for scientific diagram generation by guiding MLLMs to reconstruct diagrams.<br>
       <b><i style="color:#83a1c7;">ACM MM 2025 &nbsp;</i></b>
       <a href="https://arxiv.org/html/2504.09479v2"><em>[arXiv]</em></a>
