@@ -172,12 +172,11 @@ redirect_from:
 </body>
 </html>
 
-I am an undergraduate (2022-2026) at Xidian University, focusing on Computer Vision and Robot Learning.
+I am an undergraduate (2023–2027) at Southwest Jiaotong University. My research interests include reinforcement learning, agentic LLMs, and social recommendation.
 
-I work at [MMLab@HKU](https://mmlab.hk/) with [Prof. Xihui Liu](https://xh-liu.github.io/).
-Previously I worked at [MVIG@SJTU](https://www.mvig.org/index.html) with [Prof. Lixin Yang](https://lixiny.github.io/) and [Prof. Cewu Lu](https://www.mvig.org/index.html).
-
-Currently I conduct the VLA research at [ByteDance Seed](https://seed.bytedance.com/en/).
+I work at [Cityu](https://www.cityu.edu.hk/ace/) with [Prof. Songhua Hu](https://songhuahu-umd.github.io/).
+Previously I worked at [ETS lab@THU](https://www.ets.svm.tsinghua.edu.cn/) with [Prof.Yang Liu](https://www.svm.tsinghua.edu.cn/essay/80/2107.html) 
+Currently I conduct the Agent memory research at [ailab](https://www.shlab.org.cn/).
 
 News
 ---------------
