@@ -235,55 +235,32 @@ Publications
   <div style="display: flex; align-items: center;">
     <img src="images/WoG.png" alt="wog" width="200" height="100" style="margin-right: 20px;">
     <div>
-        <strong>World Guidance: World Modeling in Condition Space for Action Generation</strong><br>
+        <strong>A2GBD:Attack-Agnostic Graph Backdoor</strong><br>
         <i style="font-size: 13px;">
-            <a href="https://selen-suyue.github.io" target="_blank"><strong>Yue Su</strong></a>, 
-            <a href="https://ch3cook-fdu.github.io/" target="_blank">Sijin Chen</a>,
-            <a href="https://scholar.google.com/citations?user=sACkOGEAAAAJ&hl=en" target="_blank">Haixin Shi</a>, 
-            <a href="https://mingyulau.github.io/" target="_blank">Mingyu Liu</a>,
-            <a href="https://scholar.google.com/citations?user=8nrJ1vsAAAAJ&hl=en" target="_blank">Zhengshen Zhang</a>,
-            <a href="" target="_blank">Ningyuan Huang</a>,
-            <a href="https://scholar.google.com/citations?user=3EXYkZcAAAAJ&hl=zh-CN" target="_blank">Weiheng Zhong</a>,
-            <a href="https://zbzhu99.github.io/" target="_blank">Zhengbang Zhu</a>,
-            <a href="https://scholar.google.com/citations?user=i8wNtSgAAAAJ&hl=en" target="_blank">Yuxiao Liu</a>&dagger;,
-            <a href="https://xh-liu.github.io/" target="_blank">Xihui Liu</a>&dagger;
+            <a href="https://dcx-swjtu.github.io/" target="_blank"><strong>Chenxu Du</strong></a>, 
+            <a href="" target="_blank">Yang liu</a>&dagger;
         </i><br>
-        We propose WoG (World Guidance), a world modeling paradigm  in condition space for action generation: less is more.
+        We propose Attack-Agnostic Graph Backdoor (A2GBD), A Unified Backdoor Defense Framework for RL
         <br>
-        <b><i style="color:#83a1c7;">Arxiv Preprint &nbsp;</i></b>
-        <a href="https://arxiv.org/abs/2602.22010"><em>[arXiv]</em></a>
-        <a href="https://github.com/Selen-Suyue/WoG"><em>[code]</em></a>
-        <a href="https://selen-suyue.github.io/WoGNet/"><em>[website]</em></a>
+        <b><i style="color:#83a1c7;">WWW 2026 &nbsp;</i></b>
+        <a href=""><em>[arXiv]</em></a>
+        <a href="https://github.com/Dcx-swjtu/A2GBD"><em>[code]</em></a>
     </div>
   </div>
 </div>
 
 <div class="publication-card">
   <div style="display: flex; align-items: center;">
-    <video width="200" height="120" style="margin-right: 20px; border-radius: 8px;" autoplay loop muted playsinline>
-      <source src="images/clap.mp4" type="video/mp4">
-    </video>
+    <img src="images/WoG.png" alt="wog" width="200" height="100" style="margin-right: 20px;">
     <div>
-        <strong>CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos</strong><br>
-        <i style="font-size: 13px;">
-            <a href="https://lin-shan.com/" target="_blank">Chubin Zhang</a>*,
-            <a href="https://scholar.google.com/citations?user=mt5mvZ8AAAAJ&hl=en" target="_blank">Jianan Wang</a>*, 
-            <a href="" target="_blank">Zifeng Gao</a>, 
-            <a href="https://selen-suyue.github.io" target="_blank"><strong>Yue Su</strong></a>, 
-            <a href="" target="_blank">Tiranru Dai</a>,
-            <a href="https://homepage.zhouc.ai/" target="_blank">Cai Zhou</a>, <br>
-            <a href="https://ivg.au.tsinghua.edu.cn/Jiwen_Lu/" target="_blank">Jiwen Lu</a>,
-            <a href="https://andytang15.github.io/" target="_blank">Yansong Tang</a>&dagger;
-        </i><br>
-        Learning Vision-Language-Action Models from Human Videos.
+        <strong>DwT:Draw with Thought</strong><br>
+        We propose Unleashing Multimodal Reasoning for Scientific Diagram Generation(DwT), a training-free framework that guides MLLMs to reconstruct diagrams into editable mxGraph XML code through cognitively inspired Chain-of-Thought reasoning
         <br>
-        <b><i style="color:#83a1c7;">ArXiv Preprint &nbsp;</i></b>
-        <a href="https://arxiv.org/abs/2601.04061"><em>[arXiv]</em></a>
-        <a href=""><em>[code]</em></a>
-        <a href="https://lin-shan.com/CLAP/#"><em>[website]</em></a>
+        <b><i style="color:#83a1c7;">ACM MM 2025 &nbsp;</i></b>
+        <a href="https://arxiv.org/html/2504.09479v2"><em>[arXiv]</em></a>
     </div>
   </div>
-</div>
+</div
 
 
 <script src="assets/js/show_publications.js"></script>
