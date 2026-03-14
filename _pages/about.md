@@ -263,7 +263,6 @@ Publications
 </div
 
 
-<script src="assets/js/show_publications.js"></script>
 
 Projects
 --------
