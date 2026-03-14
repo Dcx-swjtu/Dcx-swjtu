@@ -189,7 +189,7 @@ Experience
 --------------
 
   <div class="experience-card">
-      <img src="images/Cityu.png" alt="HKU logo" class="experience-logo">
+      <img src="images/Cityu.png" alt="Cityu logo" class="experience-logo">
       <div class="experience-info">
           <strong>City University of Hong Kong</strong><br>
           June 2025 - Now<br>
@@ -199,7 +199,7 @@ Experience
 
 
   <div class="experience-card">
-      <img src="images/ailab.png" alt="SJTU logo" class="experience-logo">
+      <img src="images/ailab.png" alt="ailab logo" class="experience-logo">
       <div class="experience-info">
           <strong>Shanghai ailab</strong><br>
           Dec 2025 - Now<br>
@@ -218,7 +218,7 @@ Experience
   </div>
   
   <div class="experience-card">
-      <img src="images/SWJTU.png" alt="JD logo" class="experience-logo">
+      <img src="images/SWJTU.png" alt="SWJTU logo" class="experience-logo">
       <div class="experience-info">
           <strong>Southwest Jiaotong University</strong><br>
           Jan 2024 - July 2027<br>
